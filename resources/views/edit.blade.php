@@ -97,23 +97,3 @@ top: 13px;
 		</html>
       
 
-<!--<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-</head>
-<body>
-
-	name<input type="text" name="username">
-	email<input type="text" name="email" >
-	phone<input type="text" name="phone" >
-	password<input type="text" name="password" >
-	gender<input type="text" name="gender">
-	address<input type="text" name="address" value="{{$value->address}}">
-	<input type="submit" name="submit" value="update">
-</form>
-@endforeach
-</body>
-</html> -->
